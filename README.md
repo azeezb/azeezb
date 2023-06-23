@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azeez.
-- 👀 I’m interested in frontend development, database scaling and app development along with target detection, machine learning and image recognition.
-- 🌱 I’m currently learning React and SQL databasing, along with OpenCV and Flask via python.
+- 👀 I’m interested in fullstack webapp development, database management and eventually iOS app development, along with target detection, machine learning.
+- 🌱 I’m currently learning React and deepening my proficiency in C#, MySQL database manipulation and OpenCV image recognition.
 - 📫 How to reach me: azeezbodija@gmail.com
 
 <!---
