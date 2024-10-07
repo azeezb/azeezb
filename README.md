@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azeez.
-- 👀 I’m interested in fullstack webapp development, database management and iOS app development, along with target detection, machine learning.
-- 🌱 I’m currently learning React and deepening my proficiency in C#, MySQL database manipulation and OpenCV image recognition.
+- 👀 I’m a fullstack web dev, with further experience in database management and iOS app development, along with target detection and machine learning.
+- 🌱 I’m currently deepening my proficiency in C#, React, MySQL database manipulation and OpenCV image recognition.
 - 📫 How to reach me: azeezbodija@gmail.com
 
 <!---
